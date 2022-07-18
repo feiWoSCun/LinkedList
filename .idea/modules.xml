@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CalculateForBlueMountain.iml" filepath="$PROJECT_DIR$/CalculateForBlueMountain.iml" />
       <module fileurl="file://$PROJECT_DIR$/Detail/Detail.iml" filepath="$PROJECT_DIR$/Detail/Detail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
     </modules>
   </component>
 </project>
