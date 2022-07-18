@@ -10,7 +10,7 @@ public class Test {
             myLinkedList.add("bin");
             myLinkedList.add("handsome");
         } catch (Exception e) {
-            throw new RuntimeException(e);
+           e.getMessage();
         }
 
         System.out.println("添加元素后：");
@@ -19,7 +19,7 @@ public class Test {
         try {
             myLinkedList.addAtHead("Jay Chou");
         } catch (Exception e) {
-            throw new RuntimeException(e);
+            e.getMessage();
         }
         System.out.println("在头部添加元素后：");
         myLinkedList.toString(myLinkedList);
